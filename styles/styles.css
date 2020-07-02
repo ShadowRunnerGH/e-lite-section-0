@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 253, 253);
+}
+h1 {
+    font-family: "Fredoka One", sans-serif;
+    font-weight: normal;
+    position: relative;
+    text-align: center;
+    letter-spacing: 2px;
+}
+p {
+    font-family: "Google Sans Display", sans-serif;
+    text-align: center;
+    font-size: 15px;
+    line-height: 25px;
+}
