@@ -1,2 +1,2 @@
-# elite-session-0: Parav Jaikrishan(Username: ShadowRunnerGH)
+# elite-session-0: Parav Jaikrishan(ShadowRunnerGH)
 My session 0 project is available at https://elite-session-0-three.vercel.app
